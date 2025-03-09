@@ -31,7 +31,7 @@ The default scene includes:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/ray-tracer.git
+git clone https://github.com/BurnyCoder/ray-tracer.git
 cd ray-tracer
 ```
 
